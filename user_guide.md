@@ -158,7 +158,7 @@ Twinverse-AI is a multimodal AI platform that takes a simple creative phrase and
 
 If you encounter any issues or have questions:
 - Check the FAQ section
-- Contact support at support@twinversestudios.com
+- Contact support at helio@nowgo.com.br
 - Visit our community forum
 
 ## Enjoy Your Creative Journey!
