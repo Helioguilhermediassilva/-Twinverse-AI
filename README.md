@@ -184,7 +184,7 @@ The application can be deployed to any cloud provider that supports Docker conta
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+Copyright (c) 2025 NowGo Holding. All rights reserved.
 
 ## Acknowledgments
 
