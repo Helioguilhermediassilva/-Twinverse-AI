@@ -194,4 +194,4 @@ Copyright (c) 2025 NowGo Holding. All rights reserved.
 
 ## Contact
 
-For questions or support, please contact support@twinversestudios.com
+For questions or support, please contact helio@nowgo.com.br
